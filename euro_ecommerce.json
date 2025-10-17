@@ -1,0 +1,37 @@
+[
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_campaigns.csv",
+        "param_sink_folder" : "dataset_fashion_store_campaigns",
+        "param_file_name" : "dataset_fashion_store_campaigns.csv"
+    },
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_channels.csv",
+        "param_sink_folder" : "dataset_fashion_store_channels",
+        "param_file_name" : "dataset_fashion_store_channels.csv"
+    },
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_customers.csv",
+        "param_sink_folder" : "dataset_fashion_store_customers",
+        "param_file_name" : "dataset_fashion_store_customers.csv"
+    },
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_products.csv",
+        "param_sink_folder" : "dataset_fashion_store_products",
+        "param_file_name" : "dataset_fashion_store_products.csv"
+    },
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_sales.csv",
+        "param_sink_folder" : "dataset_fashion_store_sales",
+        "param_file_name" : "dataset_fashion_store_sales.csv"
+    },
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_salesitems.csv",
+        "param_sink_folder" : "dataset_fashion_store_salesitems",
+        "param_file_name" : "dataset_fashion_store_salesitems.csv"
+    },
+    {
+        "param_relative_url" : "fredie7/Azure_DF_Databricks_Synapse/refs/heads/main/datasets/dataset_fashion_store_stock.csv",
+        "param_sink_folder" : "dataset_fashion_store_stock",
+        "param_file_name" : "dataset_fashion_store_stock.csv"
+    }
+]
