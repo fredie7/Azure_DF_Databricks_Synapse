@@ -19,7 +19,7 @@ Here's a successful representation of a working pipeline after migration, config
     </td>
     <td align="center">
       <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/euro-lake-bronze.png?raw=true" height="300"><br>
-      <sub><b></b> COntinuous delivery of data in the bronze layer of the datalake</sub>
+      <sub><b></b> Continuous delivery of data in the bronze layer of the datalake</sub>
     </td>
   </tr>
 </table>
