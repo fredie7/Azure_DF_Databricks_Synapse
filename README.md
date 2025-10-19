@@ -30,3 +30,5 @@ The project continued with establishing a connection between databricks and azur
 
 #### Data Ware housing in Synapse Analytics
 The data processing is followed through with an ETL process on azure synapse analytics warehouse where connections are first established between synapse and dataake using the IAM (Identtity & access management) utility.A database is created, configured, before the definition of a schema. The OPENROWSET() function formed a huge part of data migration from the silver layer of the datalake, before an external table is created to to make the data accessible to other data specialists on end users on the team.
+
+Then Azure Synapse Analytics is connected with Power BI for bsiness insights:
