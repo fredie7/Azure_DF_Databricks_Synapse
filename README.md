@@ -24,4 +24,4 @@ Here's a successful representation of a working pipeline after migration, config
   </tr>
 </table>
 
-The project continued with establishing a connection between databricks and azure datalake storage - This is to allow access to the data in the bronze layer og the datalake in order to facilitate data processing for the silver layer.
+The project continued with establishing a connection between databricks and azure datalake storage - This is to allow access to the data in the bronze layer og the datalake in order to facilitate data processing for the silver layer. The processing involves best practices of data quality checks for the fortification of data integrity, and data enrichment for crisp generation of insights.
