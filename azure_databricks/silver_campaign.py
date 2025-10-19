@@ -7,7 +7,7 @@ df_campaign = df_campaign.withColumn("discount_value",concat(
     )
     , lit("%")))
 
-# Push the transformed campaign data to the silver layer of the datalake in parquet format
+# Push the transformed campaign data to the silver layer of the datalake in parquet format\
 
 df_campaign.write.format("parquet")\
     .mode("append")\
