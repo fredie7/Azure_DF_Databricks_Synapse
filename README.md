@@ -15,11 +15,11 @@ Here's a successful representation of a working pipeline after migration, config
   <tr>
     <td align="center">
       <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/data_factory_pipeline.png?raw=true" height="300"><br>
-      <sub><b>Fig 2.</b> Data Factory Pipeline</sub>
+      <sub><b></b> Data Factory Pipeline</sub>
     </td>
     <td align="center">
       <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/euro-lake-bronze.png?raw=true" height="300"><br>
-      <sub><b>Fig 3.</b> COntinuous delivery of data in the bronze layer of the datalake/sub>
+      <sub><b></b> COntinuous delivery of data in the bronze layer of the datalake</sub>
     </td>
   </tr>
 </table>
