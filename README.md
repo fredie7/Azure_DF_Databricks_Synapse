@@ -1,5 +1,11 @@
 ### ECOMMERCE BIG DATA ANALYTICS
 This project cuts across an end-to-end analytics of an Europe-based ecommerce company that seeks a robust pipeline for data migration, scalable processing and structured medallion architectural warehouse for insights gneration when needed.
+#### Architecture:
+<div align="center">
+  <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/ecom%20architecture.png?raw=true" />
+  <br>
+   <sub><b>Fig 1.</b> Workflow</sub>
+</div>
 
 #### Tools:
 - Azure Data Factory
