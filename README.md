@@ -23,3 +23,5 @@ Here's a successful representation of a working pipeline after migration, config
     </td>
   </tr>
 </table>
+
+The project continued with establishing a connection between databricks and azure datalake storage - This is to allow access to the data in the bronze layer og the datalake in order to facilitate data processing for the silver layer.
