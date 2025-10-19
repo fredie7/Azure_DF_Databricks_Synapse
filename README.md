@@ -4,7 +4,7 @@ This project cuts across an end-to-end analytics of an Europe-based ecommerce co
 <div align="center">
   <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/ecom%20architecture.png?raw=true" />
   <br>
-   <sub><b>Fig 1.</b> Workflow</sub>
+   <sub><b></b> Workflow</sub>
 </div>
 
 #### Tools:
