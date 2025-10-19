@@ -32,3 +32,16 @@ The project continued with establishing a connection between databricks and azur
 The data processing is followed through with an ETL process on azure synapse analytics warehouse where connections are first established between synapse and dataake using the IAM (Identtity & access management) utility.A database is created, configured, before the definition of a schema. The OPENROWSET() function formed a huge part of data migration from the silver layer of the datalake, before an external table is created to to make the data accessible to other data specialists on end users on the team.
 
 Then Azure Synapse Analytics is connected with Power BI for bsiness insights:
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/synapse_power_bi_connection.png?raw=true" height="300"><br>
+      <sub><b></b>Azure Synapse & Power BI connecton</sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/fredie7/Azure_DF_Databricks_Synapse/blob/main/images/euro_ecom_visualization.png?raw=true" height="300"><br>
+      <sub><b></b> Insight showing discount & profit by country</sub>
+    </td>
+  </tr>
+</table>
