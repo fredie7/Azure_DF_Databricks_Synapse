@@ -1,7 +1,7 @@
 -- CREATE MASTER KEY ENCRYPTION BY PASSWORD ='password_created'
 
 -- CREATE CREDENTIAL - Inform that managed identity had been created earlier
-CREATE DATABASE SCOPED CREDENTIAL fredie_credential
+CREATE DATABASE SCOPED CREDENTIAL matthew_credential
 WITH 
     IDENTITY = 'Managed Identity'
 
