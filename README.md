@@ -35,7 +35,7 @@ Here's a successful representation of a working pipeline after migration, config
 The project continued with establishing a connection between databricks and azure datalake storage - This is to allow access to the data in the bronze layer of the datalake in order to facilitate data processing for the silver layer. The processing involves best practices of data quality checks for the fortification of data integrity, and data enrichment for crisp generation of insights.
 
 #### Data Warehousing in Synapse Analytics
-The data processing is followed through with an ETL process on azure synapse analytics warehouse where connections are first established between synapse and datalake using the IAM (Identity & access management) utility.A database is created, configured, before the defining of a schema. The OPENROWSET() function formed a huge part of data migration from the silver layer of the datalake, before an external table is created to to make the data accessible to end users on the team including data specialists & stakeholders.
+The data processing is followed through with an ETL process on azure synapse analytics warehouse where connections are first established between synapse and datalake using the IAM (Identity & access management) utility.A database is created, configured, before defining of a schema. The OPENROWSET() function formed a huge part of data migration from the silver layer of the datalake, before an external table is created to to make the data accessible to end users on the team including data specialists & stakeholders.
 
 Then Azure Synapse Analytics is connected with Power BI for bsiness insights:
 
